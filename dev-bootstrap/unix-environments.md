@@ -10,6 +10,8 @@ On MacOS, install Homebrew first if not already present, then prefer `brew insta
 
 ## Shell: Zsh + Oh-My-Zsh
 
+> If user has already some custom config in `~/.bashrc`, try to bring them to `~/.zshrc`
+
 - Install zsh if not present
   - Ubuntu: `sudo apt install zsh`
   - MacOS: pre-installed

@@ -18,6 +18,14 @@ Please install coding agents using the following guide: https://raw.githubuserco
 > - `opencode run [message..]     run opencode with a message` (not recommend for now, since we might have some interactive sections)
 > - Tested that `opencode` will interactively ask which CLI tools you would like to install
 
+### Setup UNIX environment
+
+```txt
+Please help me setup environment using the following guide: https://raw.githubusercontent.com/daviddwlee84/nl-scripts/refs/heads/main/dev-bootstrap/unix-environments.md
+Ask user to install in user space (prefered) or system space. If require any sudo permission, show the commands at the end so user can execute themselves.
+If any tool user already install then skip them.
+```
+
 ---
 
 NOTE: currently focus on Unix (macOS, Ubuntu) system
